@@ -23,7 +23,7 @@ A.The chronometer stops.
 B.The time display freezes at the current elapsed time.
 
 
- Expected Results:
+ Expected   Results:
 *The start and stop functionalities work as expected: starting time measurement, 
 pausing it, and resuming correctly.
 *The chronometer accurately tracks and displays elapsed time.
