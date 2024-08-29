@@ -10,13 +10,15 @@ starting and stopping the time measurement as expected.
  A.The chronometer starts counting time from 00:00:00.
  B.The display updates to show elapsed time.
  C.The “Start” button changes to “Stop.”.
-3.Pressed the “Stop” button on the chronometer.
+3.Pressed the “Stop” button on the chronometer,
+ chronometer displays the initial time of 00:00:17.
 A.The chronometer stops counting time.
 B.The display freezes at the current elapsed time. 
 C.The “Stop” button changes back to “Start”.
 4.Pressed the “Start” button again.
-A.The chronometer resumes counting from the last stopped time.
-5.Pressed the "Stop" button again.
+A.The chronometer resumes counting from the last stopped time. (of 00:00:17)
+5.Pressed the "Stop" button again. 
+chronometer displays the initial time of 00:01:01.
 A.The chronometer stops. 
 B.The time display freezes at the current elapsed time.
 
