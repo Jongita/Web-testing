@@ -73,9 +73,12 @@ Would like to run this project locally? Open terminal and follow these steps:
     or
     ```sh
     npm install
+    ```
+3. Install dead server
+    ```sh
     npm i -D dead-server
     ```
-3. Run the server
+4. Run the server
     ```sh
     npm run dev
     ```
