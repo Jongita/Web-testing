@@ -39,6 +39,11 @@ Site published at: https://github.com/Jongita/Web-testing
 
 -   Resets the chronometer to zero, allowing you to start timing afresh.
 
+## 🎯 Project Management
+
+This project was managed using Trello: https://trello.com/b/vI9PD5Od/1st-board.
+This tool helped to organize tasks, set deadlines, and track progress.
+
 ## 🧰 Getting Started
 
 ### 💻 Prerequisites
