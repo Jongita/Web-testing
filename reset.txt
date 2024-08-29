@@ -1,0 +1,32 @@
+Test Case:
+Check "Reset" Button Functionality
+
+Objective: 
+To ensure that the "Reset" button correctly resets the chronometer to its initial state and resumes counting from 00:00:00.
+
+Requirements:
+
+The chronometer application is installed and running.
+The “Reset Time” button in all cases resets time to 00:00:00
+
+Steps:
+
+1. Launch the chronometer application. Start Chronometer by pressing "Start" button and let it run for a while.
+Click "Reset" button.
+Result: Time was reseted to 00:00:00 
+
+2. Start Chronometer by pressing "Start" button and let it run for a while.
+Click the "Stop" button to freeze the time, then press "Reset" button.
+Result: Time was reseted to 00:00:00 
+
+3. Start Chronometer by pressing "Start" button and let it run for a while.
+Click the "Fix time" button at 5s to freeze the time, then press "Stop" button.
+Press "Reset" button.
+Result: Time was reseted to 00:00:00 
+
+
+Expected Results:
+
+1. Time was reseted to 00:00:00 
+2. Time was reseted to 00:00:00 
+3. Time was reseted to 00:00:00 and Fixed time at 5s was also reseted.
