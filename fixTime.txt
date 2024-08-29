@@ -1,13 +1,8 @@
 Test Case:
 Check "Fix Time" Button Functionality
 
-Objective: 
-To ensure that the "Fix Time" button correctly freezes the current time displayed on the chronometer and prevents it from counting further until manually reset.
-
-Requirements:
-
-Application is installed and running.
-The chronometer is currently active and counting time.
+Objective / Requirements
+To ensure that the "Fix Time" button correctly freezes the current time displayed on the chronometer when pressing "Fix time" button
 
 Steps:
 
