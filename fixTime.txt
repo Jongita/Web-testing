@@ -12,16 +12,19 @@ The chronometer is currently active and counting time.
 Steps:
 
 1. Launch the chronometer application.
-Verify that the chronometer starts at 0:00 (or the initial time) and begins counting.
+Verify that the chronometer starts at 00:00:00 and begins counting.
 Let the chronometer run for a few seconds to ensure that it is actively counting.
 
 2. Click on the "Fix Time" button after 10 seconds, then 20s and press "Stop" button.
 Screenshot No.1 of the displayed time on the chronometer.
+Result: picture "fixed time" in attachments 
 
 3. Confirm that the time displayed (at 10s and 20s) does not change after clicking again the "Start" button. Press "Fix time" again at 30s and press "Stop" button.
 Screenshot No.2 of the displayed time on the chronometer.
+Result: picture "fixedtime2" in attachments 
 
 4. Reload the application to verify if the fixed time was removed.
+Result: picture "Reload page" in attachments 
 
 Expected Results:
 
