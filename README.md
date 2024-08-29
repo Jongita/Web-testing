@@ -24,7 +24,7 @@ Site published at: https://github.com/Jongita/Web-testing
 ## 🎯 Project features/goals
 
 -   Github pages
--   NOresponsive design
+-   Responsive design
 
 ### Start/Stop
 
